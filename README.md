@@ -2,7 +2,7 @@
 ## H2
 ### H3 
 
-** I am Iron Man **
+**I am Iron Man**
 
 $y = \beta_0 + \beta_1 x + \beta_2 x^2$
 
