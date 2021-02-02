@@ -3,6 +3,7 @@
 ### H3 
 
 
+
 $y = \beta_0 + \beta_1 x + \beta_2 x^2$
 
 
