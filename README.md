@@ -35,6 +35,3 @@ A repository for explaining **github** using **bold text** and maybe some *itali
 
 
 test change
-
-
-Made this change
